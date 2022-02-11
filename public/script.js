@@ -4,7 +4,7 @@ var myUserId = "";
 const myPeer = new Peer(undefined, {
   path: '/peerjs',
   host: '/',
-  port: '3030'
+  port: '443'
 })
 let myVideoStream;
 let screenShare;
@@ -153,6 +153,7 @@ const exit = () => {
 
 const copyInfo = () => {
   navigator.clipboard.writeText(window.location.href);
+  setCopied()
 };
 
 const shareScreen = async () => {
@@ -204,4 +205,13 @@ const setPlayVideo = () => {
     <span>Play Video</span>
   `
   document.querySelector('.main__video_button').innerHTML = html;
+}
+{/* <i class="fas fa-clipboard"></i> */}
+
+const setCopied = () => {
+  const html = `
+  <i class="fas fa-clipboard"></i>
+    <span>Copied</span>
+  `
+  document.querySelector('.main_copy_button').innerHTML = html;
 }
