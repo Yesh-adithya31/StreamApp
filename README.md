@@ -20,10 +20,12 @@ https://stream-app-5t2y.onrender.com/
 
 ### Built With
 
-Here this project developement using Node js Framework and rroutes called by using express.
+Here this project developement using Node js Framework, routes called by using express and Peerjs.
 
 * [![Node.js][Nodejs-url]][Node.js]
 * [![Express][Express-url]][Express]
+* ![PeerJS][Peerjs-url]
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -73,4 +75,5 @@ _This is the step you have to follow._
 [Express]: https://expressjs.com/en/starter/installing.html
 [Nodejs-url]: https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white
 [Express-url]: https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white
+[Peerjs-url]: https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white
 [image-url]: public/zoom-img.PNG
