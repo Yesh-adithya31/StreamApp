@@ -2,12 +2,6 @@
 
 Credit to [Web Dev Simplified](https://www.youtube.com/watch?v=DvlyzDZDEq4)
 
-
-
-URL: https://stream-app-5t2y.onrender.com/
-
-
-
 <a name="readme-top"></a>
 
 
@@ -16,6 +10,11 @@ URL: https://stream-app-5t2y.onrender.com/
 
 This project create based on nodejs Application Based On Zoom Application.Below the UI design of Zoom Application.
 
+Check website using this `URL`:
+```js
+https://stream-app-5t2y.onrender.com/
+```
+
 [![product-screenshot]][product-screenshot]
 
 
@@ -23,7 +22,8 @@ This project create based on nodejs Application Based On Zoom Application.Below 
 
 Here this project developement using Node js Framework.
 
-* [![Flask][Flask-url]][Flask]
+* [![Node.js][Nodejs-url]][Node.js]
+* [![Express][Express-url]][Express]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -67,9 +67,10 @@ _This is the step you have to follow._
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [linkedin-url]: https://www.linkedin.com/in/yesh-adithya-30bb601a5
 [product-screenshot]: public/zoom-img.PNG
-[Flask]: https://flask.palletsprojects.com/en/2.3.x/
-[Flask-url]: https://img.shields.io/badge/flask-78c7d1?style=for-the-badge&logo=flask&logoColor=white
+[Node.js]: https://nodejs.org/en
+[Express]: https://expressjs.com/en/starter/installing.html
+[Nodejs-url]: https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white
+[Express-url]: https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white
 [image-url]: public/zoom-img.PNG
