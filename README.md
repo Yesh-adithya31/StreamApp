@@ -20,7 +20,7 @@ https://stream-app-5t2y.onrender.com/
 
 ### Built With
 
-Here this project developement using Node js Framework.
+Here this project developement using Node js Framework and rroutes called by using express.
 
 * [![Node.js][Nodejs-url]][Node.js]
 * [![Express][Express-url]][Express]
