@@ -75,5 +75,5 @@ _This is the step you have to follow._
 [Express]: https://expressjs.com/en/starter/installing.html
 [Nodejs-url]: https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white
 [Express-url]: https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white
-[Peerjs-url]: https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white
+[Peerjs-url]: https://img.shields.io/badge/PeerJS-3DB9C9?style=for-the-badge&logo=webrtc&logoColor=white
 [image-url]: public/zoom-img.PNG
