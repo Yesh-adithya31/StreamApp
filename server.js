@@ -3,10 +3,15 @@ const app = express()
 // const cors = require('cors')
 // app.use(cors())
 const server = require('http').Server(app)
-const io = require('socket.io')(server)
+const io = require('socket.io')(server, {
+    cors: {
+        origin: '*',
+    },
+})
 const { ExpressPeerServer } = require('peer');
 const peerServer = ExpressPeerServer(server, {
-  debug: true
+  debug: true,
+  port: 443
 });
 const { v4: uuidV4 } = require('uuid')
 
