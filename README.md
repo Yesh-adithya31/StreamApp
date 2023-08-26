@@ -46,17 +46,17 @@ _This is the step you have to follow._
    git clone https://github.com/Yesh-adithya31/StreamApp.git
    ```
 3. Install npm packages
-   ```js
+   ```sh
    npm install
    ```
 4. Run cloned project by using `npm start`
-   ```js
+   ```sh
    npm start
    ```
    `OR`
    
-   ```js
-   node index.js
+   ```sh
+   node server.js
    ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
